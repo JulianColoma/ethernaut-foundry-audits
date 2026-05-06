@@ -1,6 +1,8 @@
 # Compiler files
 cache/
 out/
+remappings
+foundry
 
 # Ignores development broadcast logs
 !/broadcast
